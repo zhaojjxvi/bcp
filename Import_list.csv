@@ -1,0 +1,2 @@
+Source_Server,Source_DB,Source_Query,Des_Server,Des_DB,Des_Table,Data_File,Flag
+SQLSERVER1,DEMO,SELECT * FROM dbo.TEMP,SQLSERVER2,DEMO,dbo.TEMP,1.TXT,1
